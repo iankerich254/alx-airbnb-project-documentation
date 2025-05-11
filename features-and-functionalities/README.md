@@ -9,3 +9,5 @@ This markdown file contains the project features and functionalities:
 6. Reviews and Ratings
 7. Notifications System
 8. Admin Dashboard
+   
+![functionalities drawio](https://github.com/user-attachments/assets/e34bf6ff-3d84-4cb7-8701-107cb308c47e)
